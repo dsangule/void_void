@@ -1,0 +1,25 @@
+.nav {
+    background-color: #110022;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    color: white;
+    padding-left: 3em;
+    margin: auto 0;
+}
+
+.nav div {
+    display: flex;
+}
+
+.link {
+    text-decoration: none;
+    padding: 1em;
+    color: white;
+}
+
+.link:hover {
+    background-color: darkgray;
+}
